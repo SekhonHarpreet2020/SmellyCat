@@ -1,0 +1,6 @@
+# xoKitty
+
+run:
+```
+npx xoKitty
+```
